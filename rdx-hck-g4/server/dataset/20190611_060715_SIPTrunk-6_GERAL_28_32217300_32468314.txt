@@ -1,0 +1,19 @@
+Fonte: 20190611_060715_SIPTrunk-6_GERAL_28_32217300_32468314.wav
+Locutor 2: Salto Santiago, Émerson.
+Locutor 1: Émerson, Prado COS Engie. 
+Locutor 2: Oi Prado.
+Locutor 1: O... A tensão da máquina um foi vocês que elevaram?
+Locutor 2: Foi, por causa da corrente né?
+Locutor 1: Ah tá, beleza. Não, sem problemas.
+Locutor 2: É porque o gerado eu deixei com duzentos e setenta e cinto, mas eles pegaram trezentos e cinquenta e cinco ali.
+Locutor 1: É verdade.
+Locutor 2: Não tem o que fazer.
+Locutor 1: É, mas em todo o caso vamos elevar a tensão nas outras máquinas também. Eleva duzentos volts em cada uma delas que estão como compensador.
+Locutor 2: Tá ok, vou elevar duzentos.
+Locutor 1: Valeu.
+Locutor 2: Tá, tchau, tchau.
+Locutor 1: Feito, obrigado.
+
+ 
+
+

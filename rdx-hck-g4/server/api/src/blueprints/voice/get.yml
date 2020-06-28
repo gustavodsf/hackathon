@@ -1,0 +1,10 @@
+Realiza a busca dos arquivos
+---
+tags:
+  - Arquivos de aúdio
+parameters:
+  - name: nome_arquivo
+    in: path
+    type: string
+    required: true
+description: O nome do arquivo

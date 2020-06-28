@@ -1,0 +1,9 @@
+Convertendo de áudio para string
+---
+tags:
+  - Text
+parameters:
+  - in: formData
+    name: text_to_speech
+    type: plain/text
+    description: Text to convert to speech

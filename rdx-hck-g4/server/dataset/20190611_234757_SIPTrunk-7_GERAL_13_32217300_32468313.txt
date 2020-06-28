@@ -1,0 +1,10 @@
+Fonte: 20190611_234757_SIPTrunk-7_GERAL_13_32217300_32468313.wav
+Locutor 2: Salto Santiago, Pablo.
+Locutor 1: Oi Pablo, é Thibes do COS Engie.
+Locutor 2: Oi Thibes.
+Locutor 1: Consegue reduzir quatrocentos volts na tensão de Santiago?
+Locutor 2: Reduzir quatrocentos volts, ok? Vou fazer ali então.
+Locutor 1: Beleza, obrigado.
+Locutor 2: Valeu, até mais, tchau.
+
+

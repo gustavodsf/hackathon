@@ -1,0 +1,15 @@
+Fonte: 20190612_004222_SIPTrunk-7_GERAL_37_32217300_33334811.mp3
+
+Locutor 2: Centro regional sul Adriano
+Locutor 1: Oi Adriano, Tibes do COS ENGIE
+Locutor 2: Oi Tibes
+Locutor 1: Comutação de máquina lá em Salto Osório
+Locutor 2: Qual o grupo?
+Locutor 1: Unidade 1, 0 hora, compensou pelo sistema
+Locutor 2: 0 hora, unidade 1 de Salto Osório compensou pelo sistema. Tá bom.
+Locutor 1: Isso, e aí a unidade 3 de Itá
+Locutor 2: Unidade 3 de Itá, ok
+Locutor 1: 0 horas e 19 minutos compensou pelo sistema também
+Locutor 2: 0 e 19 unidade 3 de Itá compensou pelo sistema. Tá bom.
+Locutor 1: Valeu, brigado
+Locutor 2: Valeu, cara. Tchau.

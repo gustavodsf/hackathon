@@ -1,0 +1,24 @@
+Fonte: 20190611_235316_SIPTrunk-7_GERAL_57_32217300_33334811.wav
+Locutor 2: Alô.
+Locutor 1: Thibes, do COS Engie.
+Locutor 2: Boa noite, Thibes. ONS Regional Sul, Adriano.
+Locutor 1: Fala Adriano, tudo tranquilo meu amigo?
+Locutor 2: Tudo.
+Locutor 1: Beleza, então. Deixa eu te passar umas comutações de unidades geradoras.
+Locutor 2: Da onde? 
+Locutor 1: Salto Osório primeiro, vamo lá.
+Locutor 2: Qual o grupo?
+Locutor 1: Unidade quatro.
+Locutor 2: Que hora?
+Locutor 1: Vinte e três e trinta e seis compensou pelo sistema.
+Locutor 2: Vinte e três e trinta e seis unidade quatro de Salto Osório compensando pelo sistema, ok.
+Locutor 1: É isto e unidade três de Salto Osório vinte três, vinte e três e cinquenta compensou pelo sistema.
+Locutor 2: Sim. Vinte e três e cinquenta unidade três de Salto Osório compensando pelo sistema, ok.
+Locutor 1: Isto. Santiago a unidade três, vinte e três e trinta e oito compensou pelo sistema.
+Locutor 2: Certo. Vinte e três e trinta e oito compensando pelo sistema, ok.
+Locutor 1: Exato. Fechou, cara.
+Locutor 2: Valeu, obrigado.
+Locutor 1: Valeu, até mais. Tchau.
+
+
+

@@ -1,0 +1,9 @@
+Envio de arquivo de áudio.
+---
+tags:
+  - Voice
+parameters:
+  - in: formData
+    name: upfile
+    type: file
+    description: The file to upload.

@@ -1,0 +1,15 @@
+Fonte: 20190611_234723_SIPTrunk-6_GERAL_27_33334811_32217299.wav
+Locutor 2: Thibes, COS Engie.
+Locutor 1: Oi Thibes, aqui é Guilherme do ONS Centro Regional Sul.
+Locutor 2: Boa noite Guilherme, tudo certo?
+Locutor 1: Boa noite, cara. Tudo certo.
+Locutor 2: Tudo tranquilo, meu amigo?
+Locutor 1: Tudo certo.
+Locutor 1: O Thibes, por favor, reduz quatrocentos volts na tensão de máquina de Salto Santiago e dois kV nas barras de Passo Fundo e Salto Osório.
+Locutor 2: Reduzir quatrocentos volts na tensão de Salto Santiago e reduzir dois kV na barra de Passo Fundo e Salto Osório.
+Locutor 1: Correto.
+Locutor 2: Combinado Guilherme, estou providenciando.
+Locutor 1: Valeu, até mais, tchau tachau.
+Locutor 2: Valeu, tchau.
+
+
